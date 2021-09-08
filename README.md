@@ -2,4 +2,4 @@
 
 Interview test
 
-[LIVE DEMO HERE](https://dandrok.github.io/shuffle/)
+[DEMO](https://dandrok.github.io/shuffle/)
